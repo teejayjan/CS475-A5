@@ -1,0 +1,120 @@
+16 blocksize, 2048 trials; megaTrials/sec =  64.52
+probability:   0.11%
+16 blocksize, 4096 trials; megaTrials/sec = 133.33
+probability:   0.10%
+16 blocksize, 8192 trials; megaTrials/sec = 258.06
+probability:   0.10%
+16 blocksize, 16384 trials; megaTrials/sec = 533.33
+probability:   0.10%
+16 blocksize, 32768 trials; megaTrials/sec = 1000.00
+probability:   0.10%
+16 blocksize, 64512 trials; megaTrials/sec = 1705.58
+probability:   0.10%
+16 blocksize, 128000 trials; megaTrials/sec = 2853.07
+probability:   0.10%
+16 blocksize, 256000 trials; megaTrials/sec = 4481.79
+probability:   0.10%
+16 blocksize, 512000 trials; megaTrials/sec = 5740.94
+probability:   0.10%
+16 blocksize, 1000448 trials; megaTrials/sec = 7041.44
+probability:   0.10%
+16 blocksize, 2000896 trials; megaTrials/sec = 8071.25
+probability:   0.10%
+16 blocksize, 4000768 trials; megaTrials/sec = 8755.79
+probability:   0.10%
+16 blocksize, 6000640 trials; megaTrials/sec = 8955.97
+probability:   0.10%
+16 blocksize, 8000512 trials; megaTrials/sec = 9139.68
+probability:   0.10%
+16 blocksize, 10000384 trials; megaTrials/sec = 9191.53
+probability:   0.10%
+32 blocksize, 2048 trials; megaTrials/sec =  68.97
+probability:   0.11%
+32 blocksize, 4096 trials; megaTrials/sec = 142.86
+probability:   0.10%
+32 blocksize, 8192 trials; megaTrials/sec = 275.86
+probability:   0.10%
+32 blocksize, 16384 trials; megaTrials/sec = 533.33
+probability:   0.10%
+32 blocksize, 32768 trials; megaTrials/sec = 1010.86
+probability:   0.10%
+32 blocksize, 64512 trials; megaTrials/sec = 1909.09
+probability:   0.10%
+32 blocksize, 128000 trials; megaTrials/sec = 3448.28
+probability:   0.10%
+32 blocksize, 256000 trials; megaTrials/sec = 5681.82
+probability:   0.10%
+32 blocksize, 512000 trials; megaTrials/sec = 8072.65
+probability:   0.10%
+32 blocksize, 1000448 trials; megaTrials/sec = 10874.43
+probability:   0.10%
+32 blocksize, 2000896 trials; megaTrials/sec = 13858.16
+probability:   0.10%
+32 blocksize, 4000768 trials; megaTrials/sec = 15758.00
+probability:   0.10%
+32 blocksize, 6000640 trials; megaTrials/sec = 16689.21
+probability:   0.10%
+32 blocksize, 8000512 trials; megaTrials/sec = 17254.38
+probability:   0.10%
+32 blocksize, 10000384 trials; megaTrials/sec = 17439.29
+probability:   0.10%
+64 blocksize, 2048 trials; megaTrials/sec =  66.67
+probability:   0.11%
+64 blocksize, 4096 trials; megaTrials/sec = 137.93
+probability:   0.10%
+64 blocksize, 8192 trials; megaTrials/sec = 285.71
+probability:   0.10%
+64 blocksize, 16384 trials; megaTrials/sec = 551.72
+probability:   0.10%
+64 blocksize, 32768 trials; megaTrials/sec = 1055.67
+probability:   0.10%
+64 blocksize, 64512 trials; megaTrials/sec = 1955.38
+probability:   0.10%
+64 blocksize, 128000 trials; megaTrials/sec = 3649.64
+probability:   0.10%
+64 blocksize, 256000 trials; megaTrials/sec = 6319.12
+probability:   0.10%
+64 blocksize, 512000 trials; megaTrials/sec = 9286.13
+probability:   0.10%
+64 blocksize, 1000448 trials; megaTrials/sec = 13706.27
+probability:   0.10%
+64 blocksize, 2000896 trials; megaTrials/sec = 17952.34
+probability:   0.10%
+64 blocksize, 4000768 trials; megaTrials/sec = 21382.59
+probability:   0.10%
+64 blocksize, 6000640 trials; megaTrials/sec = 22395.80
+probability:   0.10%
+64 blocksize, 8000512 trials; megaTrials/sec = 23626.54
+probability:   0.10%
+64 blocksize, 10000384 trials; megaTrials/sec = 23980.36
+probability:   0.10%
+128 blocksize, 2048 trials; megaTrials/sec =  68.97
+probability:   0.11%
+128 blocksize, 4096 trials; megaTrials/sec = 133.33
+probability:   0.10%
+128 blocksize, 8192 trials; megaTrials/sec = 275.86
+probability:   0.10%
+128 blocksize, 16384 trials; megaTrials/sec = 516.13
+probability:   0.10%
+128 blocksize, 32768 trials; megaTrials/sec = 1047.03
+probability:   0.10%
+128 blocksize, 64512 trials; megaTrials/sec = 2001.99
+probability:   0.10%
+128 blocksize, 128000 trials; megaTrials/sec = 3872.22
+probability:   0.10%
+128 blocksize, 256000 trials; megaTrials/sec = 6986.90
+probability:   0.10%
+128 blocksize, 512000 trials; megaTrials/sec = 9592.33
+probability:   0.10%
+128 blocksize, 1000448 trials; megaTrials/sec = 13778.76
+probability:   0.10%
+128 blocksize, 2000896 trials; megaTrials/sec = 18160.91
+probability:   0.10%
+128 blocksize, 4000768 trials; megaTrials/sec = 21448.62
+probability:   0.10%
+128 blocksize, 6000640 trials; megaTrials/sec = 22910.20
+probability:   0.10%
+128 blocksize, 8000512 trials; megaTrials/sec = 24081.68
+probability:   0.10%
+128 blocksize, 10000384 trials; megaTrials/sec = 24193.85
+probability:   0.10%
